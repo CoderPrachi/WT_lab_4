@@ -1,0 +1,36 @@
+
+.div1{
+	font-family:Times New Roman;
+	font-size:100%;
+	color:red;
+	width:40%;
+	text-align:center;
+	background-color:black;
+	display:block;
+	margin-top: 10px;
+	border:2px solid pink;
+}
+
+
+body{
+	background-image:url("bg1.jpg");
+	background-repeat:no-repeat;
+	background-attachment:fixed;
+	background-size:100% 100%;
+}
+
+
+input{
+	size:270px;
+	width:270px;
+	height:30px;
+}
+
+
+
+
+
+
+
+
+
